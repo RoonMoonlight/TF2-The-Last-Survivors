@@ -27,7 +27,6 @@ If you are concerned about copyright, you are free to choose not to install opti
 * [Sloofy's Overhauled UI Portraits (SOUP)](https://gamebanana.com/mods/26400) (**You MUST install Mod_textures-less customization too to avoid hud conflicts**)[^2]
 * [Source Text Refont [Better Looking Default Text]](https://gamebanana.com/mods/314848)
 * [Red & Blu Main Menu Logo Replacement](https://gamebanana.com/mods/410666)
-* [Robot animation fixes](https://gamebanana.com/mods/206443) 
 * [Ultimate Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack) (Download [here](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack/releases/latest)) 
 * [Unused MvM Sounds](https://gamebanana.com/sounds/41860) (USE `Unused MvM Sounds WITHOUT Tank Horn` folder) 
 * [Unique Rockets](https://gamebanana.com/mods/324446) (You also need [this one](https://gamebanana.com/dl/789564)) 
