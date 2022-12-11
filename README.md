@@ -23,7 +23,6 @@ If you are concerned about copyright, you are free to choose not to install opti
 * [Icons Portrait Class](https://gamebanana.com/mods/26073)
 * [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
 * [No-Hats-Mod bgum](https://gamebanana.com/mods/205768)[^1]
-* [Sentry Buster Fixes](https://gamebanana.com/mods/205386)
 * [SFM-like Phong and Normal Maps](https://gamebanana.com/mods/198538) 
 * [Sloofy's Overhauled UI Portraits (SOUP)](https://gamebanana.com/mods/26400) (**You MUST install Mod_textures-less customization too to avoid hud conflicts**)[^2]
 * [Source Text Refont [Better Looking Default Text]](https://gamebanana.com/mods/314848)
