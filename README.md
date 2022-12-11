@@ -17,7 +17,6 @@
 If you are concerned about copyright, you are free to choose not to install optional mods. That's why I've made it seperately for streamers or content creators about copyright issue.
 
 # List of Mods
-* [Absolutely HD Item Icons](https://gamebanana.com/mods/316151)
 * [Community HUD Fixes](https://gamebanana.com/mods/26450)
 * [Enhanced-est Bots](https://gamebanana.com/mods/205202) (Use bots_mvm.vpk ONLY)
 * [Icons Portrait Class](https://gamebanana.com/mods/26073)
