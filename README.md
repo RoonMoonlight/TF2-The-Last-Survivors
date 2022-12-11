@@ -19,9 +19,10 @@ If you are concerned about copyright, you are free to choose not to install opti
 # List of Mods
 * [Absolutely HD Item Icons](https://gamebanana.com/mods/316151)
 * [Community HUD Fixes](https://gamebanana.com/mods/26450)
+* [Enhanced-est Bots](https://gamebanana.com/mods/205202)
+* [Icons Portrait Class](https://gamebanana.com/mods/26073)
 * [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
 * [No-Hats-Mod bgum](https://gamebanana.com/mods/205768)[^1]
-* [Old Portraits Remake](https://gamebanana.com/mods/25987)
 * [Sentry Buster Fixes](https://gamebanana.com/mods/205386)
 * [SFM-like Phong and Normal Maps](https://gamebanana.com/mods/198538) 
 * [Sloofy's Overhauled UI Portraits (SOUP)](https://gamebanana.com/mods/26400) (**You MUST install Mod_textures-less customization too to avoid hud conflicts**)[^2]
