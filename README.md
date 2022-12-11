@@ -45,9 +45,12 @@ These are optional but recommended for best experiences. Had to split in case of
 
 # Frequently Asked Questions (AKA FAQ)
 **Q) So this only works on MvM? What about the other gamemodes?**
+
 A) This modpack is designed for Mann vs Machines game mode in mind, so if you play with this modpack you will not notice any changes.
 
+
 **Q) What happened? I thought you were not coming back to TF2!**
+
 A) Well, lemme tell you what happened... Yes, I was the one who decided not to come back to TF2 modding due to Valve's aggressive behavior towards modding community. However some of fans loved my modpack, and some others even made a pull request for it! There was a people who still loved my modpacks, so rather than blaming Valve for not updating their stupid game I decided to come back and made decision to work with our fans. In case you were misunderstanding, **I still don't like Valve.** I just wanted to provide something new for fans of my modpack. And this project is not to support Valve and Team Fortress 2 community. This project is dedicated ONLY to peoples who like my modpack.
 
 
